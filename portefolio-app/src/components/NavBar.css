@@ -1,0 +1,48 @@
+nav{
+    display: flex;
+    align-items: center;
+    padding: 1rem 1rem;
+    color: white;
+    border-bottom: #8a785e 2px solid;
+}
+
+.nav-select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-select a{
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-size: 2rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav .wrap{
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+
+nav img{
+    height: 110%;
+    width: 110%;
+    object-fit: cover;
+    margin: -5px -px;
+}
+
+.nav-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dfaa5c;
+    color: white;
+    border-radius: 4rem;
+    padding: 1rem 3rem 1rem 1rem;
+    margin: 1rem 0;
+}

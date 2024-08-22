@@ -1,12 +1,29 @@
 import { BrowserRouter, NavLink } from "react-router-dom";
+import './NavBar.css';
+import logo from '../img/66627127.png';
 
 function NavBar() {
     return (
         <nav>
-            <div>
-                <NavLink to="/portefolio/">Home</NavLink>
-                <NavLink to="/portefolio/but">But</NavLink>
+            <NavLink to="/portefolio/">
+                <div className="nav-card">
+                    <div className="wrap">
+                        <img src={logo} alt="logo"/>
+                    </div>
+                    <div>
+                        Liam LUCAS
+                    </div>
+                </div>
+            </NavLink>
+            <div className="nav-select">
+                <div>
+                    <NavLink to="/portefolio/">Home</NavLink>
+                </div>
+                <div>
+                    <NavLink to="/portefolio/but">But</NavLink>
+                </div>
             </div>
+            
         </nav>
     );
 }
