@@ -1,6 +1,13 @@
+* {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
+
 .App {
   text-align: center;
 }
+
 
 a {
   color: white;

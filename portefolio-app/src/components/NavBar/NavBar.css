@@ -10,12 +10,13 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 2rem;
 }
 
 .nav-select a{
     color: white;
     text-decoration: none;
-    margin: 0 1rem;
+    margin: 0 1.5rem;
     font-size: 2rem;
     font-weight: 200;
     font-family: 'Roboto', sans-serif;
@@ -45,4 +46,6 @@ nav img{
     border-radius: 4rem;
     padding: 1rem 3rem 1rem 1rem;
     margin: 1rem 0;
+    font-size: large;
+    font-weight: 500;
 }
