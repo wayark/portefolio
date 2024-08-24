@@ -1,12 +1,16 @@
+import Year from '../../components/Year/Year';
+import './Home.css';
 import {data} from '../../data/data';
 
-function Home() {
+function Home() {        
     return (
-        <div>
+        <div className='home-page'>
             <h1>But</h1>
-            <div>
-                
-            </div>
+            {
+                data.map((data) => {
+                    return <Year year={data} />
+                })
+            }
         </div>
     );
 }

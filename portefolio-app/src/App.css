@@ -4,6 +4,12 @@
   color: white;
 }
 
+span {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top; 
+}
+
 .App {
   text-align: center;
 }

@@ -3,7 +3,7 @@ export const data = [
         "year": 1,
         "competence":[
             {
-                "ue": "UE1",
+                "ue": "Unité d'apprentissage 1",
                 "intitule": "Développer des composants d'interface",
                 "description": "Développer des composants d'interface en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -22,7 +22,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE2",
+                "ue": "Unité d'apprentissage 2",
                 "intitule": "Développer la persistance des données",
                 "description": "Développer la persistance des données en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -41,7 +41,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE3",
+                "ue": "Unité d'apprentissage 3",
                 "intitule": "Développer une application n-tiers",
                 "description": "Développer une application n-tiers en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -60,7 +60,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE4",
+                "ue": "Unité d'apprentissage 4",
                 "intitule": "Concevoir une application",
                 "description": "Concevoir une application en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -79,7 +79,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE5",
+                "ue": "Unité d'apprentissage 5",
                 "intitule": "Développer des composants d'accès aux données",
                 "description": "Développer des composants d'accès aux données en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -98,7 +98,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE6",
+                "ue": "Unité d'apprentissage 6",
                 "intitule": "Développer des services web",
                 "description": "Développer des services web en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -122,7 +122,7 @@ export const data = [
         "year": 2,
         "competence":[
             {
-                "ue": "UE1",
+                "ue": "Unité d'apprentissage 1",
                 "intitule": "Développer des composants d'interface",
                 "description": "Développer des composants d'interface en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -141,7 +141,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE2",
+                "ue": "Unité d'apprentissage 2",
                 "intitule": "Développer la persistance des données",
                 "description": "Développer la persistance des données en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -160,7 +160,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE3",
+                "ue": "Unité d'apprentissage 3",
                 "intitule": "Développer une application n-tiers",
                 "description": "Développer une application n-tiers en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -179,7 +179,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE4",
+                "ue": "Unité d'apprentissage 4",
                 "intitule": "Concevoir une application",
                 "description": "Concevoir une application en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -203,7 +203,7 @@ export const data = [
         "year": 3,
         "competence":[
             {
-                "ue": "UE1",
+                "ue": "Unité d'apprentissage 1",
                 "intitule": "Développer des composants d'interface",
                 "description": "Développer des composants d'interface en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -222,7 +222,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE2",
+                "ue": "Unité d'apprentissage 2",
                 "intitule": "Développer la persistance des données",
                 "description": "Développer la persistance des données en intégrant les recommandations de sécurité",
                 "subject" : [
@@ -241,7 +241,7 @@ export const data = [
                 ]
             },
             {
-                "ue": "UE3",
+                "ue": "Unité d'apprentissage 3",
                 "intitule": "Développer une application n-tiers",
                 "description": "Développer une application n-tiers en intégrant les recommandations de sécurité",
                 "subject" : [
