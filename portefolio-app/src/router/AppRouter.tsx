@@ -2,6 +2,7 @@ import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Home from '../pages/Home/Home';
 import But from '../pages/But/But'; 
+import { CompetenceDisplayProvider } from '../contexte/competenceDisplay';
 
 function AppRouter() {
     return (
