@@ -16,11 +16,13 @@ function CompetenceNavBar({data} : any) {
 
     return (
         <div className='competence-nav-bar'>
-            <div className='competence-nav-bar-left-arrow nav-bar-arrow' onClick={() => handleClick(-1)}></div>
-            <div className='competence-nav-bar-label'>
-                {data[competenceToDisplay].name || 'No competence to display'}
+            <div className='competence-nav-bar-window'>
+                <div className='competence-nav-bar-left-arrow nav-bar-arrow' onClick={() => handleClick(-1)}></div>
+                <div className='competence-nav-bar-label'>
+                    {data[competenceToDisplay].name || 'No competence to display'}
+                </div>
+                <div className='competence-nav-bar-right-arrow nav-bar-arrow' onClick={() => handleClick(1)} ></div>
             </div>
-            <div className='competence-nav-bar-right-arrow nav-bar-arrow' onClick={() => handleClick(1)} ></div>
         </div>
     );
 

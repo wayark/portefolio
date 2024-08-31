@@ -9,10 +9,10 @@ function Competence({data} : any) {
     let competence = data[competenceToDisplay];
 
     return(<>
-        <div className='competence'>
-            <div className='competence-title'>
+        <div className={'competence_' + competenceToDisplay} id={'competence_' + competenceToDisplay}>
+            <div className='competence-years'>
                 {competence.years.map((year: any, index: number) => {
-                    return <Year year={year}/>
+                    return <Year year={year} index={index+1}/>
                 }
                 )}
             </div>

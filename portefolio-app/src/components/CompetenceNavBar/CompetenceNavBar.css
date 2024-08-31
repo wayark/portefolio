@@ -1,8 +1,5 @@
 .competence-nav-bar{
-    position: fixed;
-    top: 100;
-    left: 0;
-    width: 100%;
+    width: 80%;
     height: 10vh;
     display: flex;
     flex-direction: column;
@@ -10,13 +7,24 @@
     align-items: center;
     z-index: 100;
     transition: all 0.3s;
+    background-color: #494e53;
+    border-radius: 10px;
+}
+
+.competence-nav-bar-window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #d4d4d4;
 }
 
 .nav-bar-arrow{
-    position: absolute;
+
     width: 50px;
     height: 50px;
-    background-color: #f8f9fa;
+    background-color: #dfaa5c;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,20 +37,23 @@
 }
 
 .competence-nav-bar-left-arrow{
-    left:18vw;
     border-radius: 50% 0 0 50%;
 }
 
 .competence-nav-bar-right-arrow{
-    right:18vw;
     border-radius: 0 50% 50% 0;
 }
 
 .competence-nav-bar-label{
-    font-size: 1.5vw;
+    display: flex;
+    color: rgb(53, 53, 53);
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    font-size: calc(1rem + 0.7vw);
     font-weight: bold;
-    margin: 0 1rem;
+    width: 60vw;
     transition: all 1s;
-}
 
+}
 

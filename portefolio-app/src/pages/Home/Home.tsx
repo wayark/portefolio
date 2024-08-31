@@ -9,7 +9,7 @@ function Home() {
     return (
         <CompetenceDisplayProvider>
         <div className='home-page'>
-            <h1>But</h1>
+            <h1>BUT</h1>
             <div className='home-page-competence-nav-wrapper'>
                 <CompetenceNavBar data={data}/>
             </div>

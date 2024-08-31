@@ -17,6 +17,20 @@
     font-size: 2.5vw;
 }
 
+.competence-years {
+    display: grid;
+    width: 100%;
+    margin-top: 5vh;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    grid-gap: 2vw;
+    justify-content: center;
+}
+
+.competence-years > *:nth-child(3) {
+    grid-column: span 2; /* Make the third item span both columns */
+}
+
 .competence-description {
     font-size: 1.8vw;
     font-weight: 100;

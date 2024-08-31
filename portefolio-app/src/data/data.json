@@ -1,6 +1,6 @@
 {
     "1" : {
-        "name" : "Réalisé un développement d'application.",
+        "name" : "Réaliser un développement d'application.",
         "years" : [
             {
                 "name" : "Développer des applications informatiques simples",
@@ -19,13 +19,13 @@
                         "name" : "Développer des interfaces utilisatateurs"
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Annuaire en C",
                         "id" : 13
                     },
                     {
-                        "name" : "Exploration de graph",
+                        "name" : "Exploration de graphe",
                         "id" : 4
                     }
                 ],
@@ -48,7 +48,7 @@
                         "name" : "Vérifier et valider la qualité de l'application par les tests"
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Waticket",
                         "id" : 12
@@ -71,11 +71,7 @@
                     }
                 ],
                 "value": "Cette compétence a été validée avec un très bon niveau de maîtrise",
-                "project" : [
-                    {
-                        "name" : "Color Generator",
-                        "id" : 14
-                    }
+                "projects" : [
                 ]
             }
         ]
@@ -100,13 +96,13 @@
                         "value" : ""
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Algorithmes de l'annuaire en C",
                         "id" : 13
                     },
                     {
-                        "name" : "Algorithmes d'Exploration de graph",
+                        "name" : "Algorithmes d'Exploration de graphe",
                         "id" : 4
                     }
                 ],
@@ -133,7 +129,7 @@
                         "value" : ""
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Waticket",
                         "id" : 12
@@ -159,11 +155,7 @@
                     }
                 ],
                 "value": "Cette compétence a été validée avec un bon niveau de maîtrise",
-                "project" : [
-                    {
-                        "name" : "Color Generator",
-                        "id" : 14
-                    }
+                "projects" : [
                 ]
             }
         ]
@@ -192,7 +184,7 @@
                         "value" : ""
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Installation d'un poste de développement"
                     },
@@ -219,7 +211,7 @@
                         "value" : ""
                     }
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Deploiment de Mustto",
                         "id" : 12
@@ -241,7 +233,7 @@
                     {"name" :  "Visualiser des données"},
                     {"name" :  "Concevoir une base de données relationnelle à partir d'un cahier des charges"}
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name": "Création d'une base de données Oracle"
                     }
@@ -257,7 +249,7 @@
                     {"name" :  "Organiser la restitution des données à travers la programmation et la visualisation"},
                     {"name" :  "Manipuler des données hétérogènes"}
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name": "Waticket",
                         "id" :  12
@@ -278,9 +270,9 @@
                     {"name" :  "Mettre en place les outils de gestions de projet"},
                     {"name" :  "Identifier les acteurs et les différentes phases d'un cycle de développement"}
                 ],
-                "project" : [
+                "projects" : [
                     {
-                        "name" : "Exploration de graph",
+                        "name" : "Exploration de graphe",
                         "id" : 4
                     }
                 ],
@@ -295,7 +287,7 @@
                     {"name" :  "Identifier les critères de faisabilité d'un projet informatique"},
                     {"name" :  "Définir et mettre en oeuvre une démarche de suivi de projet"}
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Waticket",
                         "id" : 12
@@ -317,9 +309,9 @@
                     {"name" :  "Identifier les status, les fonctions et les rôles de chaque membre d'une équipe pluridisciplinaire"},
                     {"name" :  "Acquérir les compétences interpersonnelles pour travailler en équipe"}
                 ],
-                "project" : [
+                "projects" : [
                     {
-                        "name" : "Exploration de graph",
+                        "name" : "Exploration de graphe",
                         "id" : 4
                     }
                 ],
@@ -334,7 +326,7 @@
                     {"name" :  "Mobiliser les compétences interpersonnelles pour intégrer une équipe informatique"},
                     {"name" :  "Rendre compte de son activité professionnelle"}
                 ],
-                "project" : [
+                "projects" : [
                     {
                         "name" : "Waticket",
                         "id" : 12
@@ -351,11 +343,7 @@
                     {"name" :  "Guider la conduite du changement informatique au sein d’une organisation"},
                     {"name" :  "Accompagner le management de projet informatique"}
                 ],
-                "project" : [
-                    {
-                        "name" : "Color Generator",
-                        "id" : 14
-                    }
+                "projects" : [
                 ]
             }
         ]
