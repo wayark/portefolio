@@ -17,10 +17,10 @@ function NavBar() {
             </NavLink>
             <div className="nav-select">
                 <div>
-                    <NavLink to="/portefolio/">Home</NavLink>
+                    <NavLink to="/portefolio/">BUT</NavLink>
                 </div>
                 <div>
-                    <NavLink to="/portefolio/but">But</NavLink>
+                    <NavLink to="/portefolio/internship">Atlernance</NavLink>
                 </div>
             </div>
             
