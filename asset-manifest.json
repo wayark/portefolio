@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portefolio/static/css/main.3dda1a4b.css",
-    "main.js": "/portefolio/static/js/main.a575865f.js",
+    "main.css": "/portefolio/static/css/main.81e88895.css",
+    "main.js": "/portefolio/static/js/main.989b8c5e.js",
     "static/js/453.9387d1a0.chunk.js": "/portefolio/static/js/453.9387d1a0.chunk.js",
     "static/media/66627127.png": "/portefolio/static/media/66627127.a5e98dbaca25f7468f97.png",
     "static/media/csharp.png": "/portefolio/static/media/csharp.bb7cbf6df41e693f9316.png",
@@ -9,12 +9,12 @@
     "static/media/symfony.png": "/portefolio/static/media/symfony.da178bb8cfe33163046a.png",
     "static/media/icp.jfif": "/portefolio/static/media/icp.4965697cc8cd53c16d7b.jfif",
     "index.html": "/portefolio/index.html",
-    "main.3dda1a4b.css.map": "/portefolio/static/css/main.3dda1a4b.css.map",
-    "main.a575865f.js.map": "/portefolio/static/js/main.a575865f.js.map",
+    "main.81e88895.css.map": "/portefolio/static/css/main.81e88895.css.map",
+    "main.989b8c5e.js.map": "/portefolio/static/js/main.989b8c5e.js.map",
     "453.9387d1a0.chunk.js.map": "/portefolio/static/js/453.9387d1a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dda1a4b.css",
-    "static/js/main.a575865f.js"
+    "static/css/main.81e88895.css",
+    "static/js/main.989b8c5e.js"
   ]
 }
