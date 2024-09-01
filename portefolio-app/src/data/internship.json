@@ -1,0 +1,41 @@
+{
+    "internships":[
+        {
+            "name": "ICP Conseil",
+            "logo": "icp.jfif",
+            "alt": "icp",
+            "poste": "Développeur Full-Stack",
+            "date": "Septembre 2023 - Avril 2024",
+            "technologies": [
+                "csharp.png",
+                "net.png",
+                "mysql.png"
+            ],
+            "description": "ICP Conseil est une entreprise d'édition de logiciels medical. Le But du logiciel est de faciliter les taches récurrentes des médecins spécialisé",
+            "competences": [
+                "Développement d'application",
+                "Développement de site web",
+                "Autonomie",
+                "Relation client"
+            ]
+        },
+        {
+            "name": "Yurplan",
+            "logo": "yurplan.png",
+            "alt": "yurplan",
+            "poste": "Développeur Back-End",
+            "date": "Avril 2024 - Aujourd'hui",
+            "technologies": [
+                "symfony.png",
+                "react.png",
+                "mysql.png"
+            ],
+            "description": "Yurplan est une plateforme de billetterie en ligne. Le but du logiciel est de faciliter la gestion des événements pour les organisateurs",
+            "competences": [
+                "Développement Back-End",
+                "Gestion de projet",
+                "Communication d'équipe"
+            ]
+        }
+    ]
+}

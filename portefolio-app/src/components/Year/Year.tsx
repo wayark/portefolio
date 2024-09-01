@@ -33,6 +33,9 @@ function Year({year, index} : yearProps) {
                     </div>
                 </div>
             )}
+            <span className='year-value'>
+                {year.value}
+            </span>
         </div>
     </div>
     );

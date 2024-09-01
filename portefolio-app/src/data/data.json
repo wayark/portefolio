@@ -1,6 +1,6 @@
 {
     "1" : {
-        "name" : "Réaliser un développement d'application.",
+        "name" : "Réaliser un développement d'application",
         "years" : [
             {
                 "name" : "Développer des applications informatiques simples",
@@ -70,14 +70,14 @@
                         "name" : "Intégrer des solutions dans un environnement de production"
                     }
                 ],
-                "value": "Cette compétence a été validée avec un très bon niveau de maîtrise",
+                "value": "Cette compétence a été validée avec un niveau de maîtrise moyen",
                 "projects" : [
                 ]
             }
         ]
     },
     "2" : {
-        "name" : "Optimiser des applications.",
+        "name" : "Optimiser des applications",
         "years" : [
             {
                 "name" : "Appréhender et construire des algorithmes",
@@ -161,7 +161,7 @@
         ]
     },
     "3" : {
-        "name" : "Administrer des systèmes informatiques communicants complexes.",
+        "name" : "Administrer des systèmes informatiques communicants complexes",
         "years" : [
             {
                 "name" : "Installer et configurer un poste de travail",
@@ -223,7 +223,7 @@
 
     },
     "4" : {
-        "name" : "Gérer des données de l'information.",
+        "name" : "Gérer des données de l'information",
         "years" : [
             {
                 "done" : true,
@@ -238,7 +238,7 @@
                         "name": "Création d'une base de données Oracle"
                     }
                 ],
-                "value": "Cette compétence a été validée avec un bon niveau de maîtrise"
+                "value": "Cette compétence a été validée avec un assez bon niveau de maîtrise"
             },
             {
                 "done" : true,
@@ -255,12 +255,12 @@
                         "id" :  12
                     }
                 ],
-                "value": "Cette compétence a été validée avec une maîtrise satisfaisante"
+                "value": "Cette compétence a été validée avec un bon niveau de maîtrise"
             }
         ]
     },
     "5" : {
-        "name" : "Conduire un projet.",
+        "name" : "Conduire un projet",
         "years" : [
             {
                 "done" : true,
@@ -298,7 +298,7 @@
         ]
     },
     "6" : {
-        "name" : "Collaborer au sein d'une équipe informatique.",
+        "name" : "Collaborer au sein d'une équipe informatique",
         "years" : [
             {
                 "done" : true,
@@ -337,7 +337,7 @@
             {
                 "done" : true,
                 "name" : "Manager une équipe informatique",
-                "value": "Cette compétence a été validée avec un niveau satisfaisant",
+                "value": "Cette compétence a été validée avec un bon niveau de maîtrise",
                 "ac" : [
                     {"name" :  "Organiser et partager une veille technologique et informationnelle"},
                     {"name" :  "Guider la conduite du changement informatique au sein d’une organisation"},

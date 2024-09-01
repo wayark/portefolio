@@ -33,6 +33,17 @@
     background-color: rgb(131, 148, 142);
 }
 
+.year-value{
+    display: flex;
+    justify-content: start;
+    font-size: calc(0.6rem + 0.7vw);
+    margin-top: 4vh;
+    padding: 1vw;
+    border: 3px solid #494e53;
+    border-radius: 10px;
+    background-color:  rgba(131, 148, 142, 0.267);
+}
+
 .year-wrapper{
     display: flex;
     width: 32vw;

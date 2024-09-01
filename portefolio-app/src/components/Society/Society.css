@@ -1,0 +1,129 @@
+.technology-img-wrapper {
+    height: 2.5em;
+    width: 2.5em;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 1rem;
+    background-color: aliceblue;
+}
+
+.technology-img-wrapper img {
+    height: 105%;
+    width: 105%;
+    margin: -2px -2px;
+    object-fit: cover;
+}
+
+.society-technologies-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+    margin-left: 2.5vw;
+}
+
+.society-technologies-title {
+    font-size: calc(1rem + 0.5vw);
+    font-weight: 100;
+}
+
+.society-technologies{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.competence-wrapper{
+    font-size: calc(0.8rem + 0.3vw);
+}
+
+.society-competences-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin-top: 2vh;
+    margin-left: 2.5vw;
+}
+
+.society-competences-title{
+    font-size: calc(1rem + 0.5vw);
+    font-weight: 100;
+}
+
+.society-competences{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-right: 5vw;
+}
+
+.society-bottom{
+    display: flex;
+    flex-direction: row;    
+    align-items: start;
+    margin-top: 4vh;
+}
+
+.society-description{
+    font-size: calc(0.8rem + 0.3vw);
+    margin-top: 4vh;
+    margin-left: 1.5vw;
+
+}
+
+.society-page-poste{
+    font-size: calc(1rem + 0.6vw);
+}
+.society-page-date{
+    font-size: calc(0.8rem + 0.3vw);
+    margin-top: 1vh;
+    margin-left: 1vw;
+}
+
+.society-page-title{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: #504a5c;
+    padding: 1vw;
+    width: 30vw;
+    border-radius: 10px;
+}
+
+.society-img-wrapper{
+    height: 10em;
+    width: 10em;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+
+.society-img-wrapper img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.society-page-name{
+    font-size: calc(1rem + 0.7vw);
+    margin-top: 1vh;
+}
+
+.society-page-left{
+    margin-right: 3vw;
+}
+
+.society-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    margin-top: 4vh;
+    margin-left: 1.5vw;
+    background-color: #383441;
+    padding: 3vh 2vw;
+    border-radius: 20px;
+    width: 80vw;
+}
+
