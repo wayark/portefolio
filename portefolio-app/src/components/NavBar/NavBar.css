@@ -48,4 +48,10 @@ nav img{
     margin: 1rem 0;
     font-size: large;
     font-weight: 500;
+    transition: all 0.3s;
+}
+
+.nav-card:hover{
+    background-color: #8a785e;
+    cursor: pointer;
 }
