@@ -20,7 +20,7 @@ function NavBar() {
                     <NavLink to="/portefolio/">BUT</NavLink>
                 </div>
                 <div>
-                    <NavLink to="/portefolio/internship">Atlernance</NavLink>
+                    <NavLink to="/portefolio/internship">Alternance</NavLink>
                 </div>
             </div>
             
