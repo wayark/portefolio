@@ -70,7 +70,7 @@
                         "name" : "Intégrer des solutions dans un environnement de production"
                     }
                 ],
-                "value": "Cette compétence a été validée avec un niveau de maîtrise moyen",
+                "value": "Cette compétence a été validée avec un bon niveau de maîtrise",
                 "projects" : [
                 ]
             }
@@ -135,7 +135,7 @@
                         "id" : 12
                     }
                 ],
-                "value": "Cette compétence a été validée avec un bon niveau de maîtrise"
+                "value": "Cette compétence a été validée avec un niveau de maîtrise moyen"
             },
             {
                 "name" : "Analyser et optimiser des applications",
